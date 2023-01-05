@@ -37,3 +37,7 @@ build/*
 
 # OS X stuff
 ._*
+
+text8
+text8.zip.1
+*.bin
